@@ -49,7 +49,7 @@ const HowItWorks = () => {
                         <br />A monster win for gaming
                     </h2>
                     <p className='text-gray font-semibold text-xl md:text-2xl py-10 text-center'>
-                        It's here. The Biggest redesign in the history of Apple GPUs.
+                        It`&apos;`s here. The Biggest redesign in the history of Apple GPUs.
                     </p>
 
                 </div>
