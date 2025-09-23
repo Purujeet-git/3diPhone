@@ -33,8 +33,8 @@ const Model = () => {
     }, []);
 
     return (
-        <section className='sm:py-32 py-20 sm:px-10 px-5'>
-            <div className='max-w-screen'>
+        <section className='sm:py-32 py-20 sm:px-10 px-5 w-[98vw]'>
+            <div className=''>
                 <h1 id='heading' className='text-gray-700 lg:text-6xl md:text-5xl text-3xl lg:mb-0 mb-5 font-medium opacity-0 translate-y-20'>
                     Take a closer look.
                 </h1>

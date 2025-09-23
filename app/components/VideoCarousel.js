@@ -180,8 +180,8 @@ const VideoCarousel = () => {
   };
 
   return (
-    <div id="video-carousel-container">
-      <div className='flex items-center'>
+    <div id="video-carousel-container ">
+      <div className='flex items-center w-[98vw]'>
         {hightlightsSlides.map((list, i) => (
           <div key={list.id} id='slider' className='sm:pr-20 pr-10'>
             <div className='video-carousel_container relative sm:w-[70vw] w-[88vw] md:h-[70vh] sm:h-[50vh] h-[35vh]'>

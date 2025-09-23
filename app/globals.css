@@ -18,3 +18,8 @@
     --foreground: #ededed;
   }
 }
+
+html,
+body {
+  overflow-x: hidden;
+}

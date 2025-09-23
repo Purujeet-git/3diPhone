@@ -46,7 +46,7 @@ const Hero = () => {
   
 
   return (
-    <section className='w-full h-[calc(100vh-60px)] bg-black relative'>
+    <section className='w-[98vw] h-[calc(100vh-60px)] bg-black relative'>
       <div className='h-5/6  w-full flex items-center justify-center flex-col '>
         <p id='hero' className='hero-title text-center font-semibold text-3xl text-gray-100 opacity-0 max-md:mb-10'>iPhone 15 pro</p>
         <div className='md:w-10/12 w-9/12 '>
